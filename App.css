@@ -1,0 +1,53 @@
+#div1{
+  background-color:white;
+  box-shadow: 1px;
+  width:95%;
+  height:600px;
+  margin:0 auto;
+  border:1px solid rgb(20, 20, 20);
+  padding:5px;
+}
+#border1{
+  border:1px solid rgb(145, 140, 140);
+}
+.di1>li{
+   list-style-type:none;
+   color:black;
+   padding:5px;
+   border:1px solid grey;
+   width:100px;
+   text-align:center;
+   margin:2px;
+}
+.di1{
+  display:block;
+}
+
+#border2{
+  border:1px solid rgb(226, 219, 219);
+}
+
+p>p{
+  display:inline;
+  font-weight:bold;
+}
+p>#p1{
+  margin-right: 300px;
+}
+p>#p2{
+  margin-right: 300px;
+}
+button{
+  color:white;
+  font-weight: bold;
+  width:300px;
+  height:30px;
+  border:none;
+  background-color:rgb(28, 234, 237);
+  border-radius:5px;
+}
+#pin{
+  display:inline;
+  margin-left:800px;
+  margin-right:40px;
+}
